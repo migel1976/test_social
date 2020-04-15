@@ -1,0 +1,10 @@
+.app{
+	display:grid;
+	grid-template-areas:
+	'h h'
+	'n c'
+}
+
+.app_content{
+	grid-area:c
+}
